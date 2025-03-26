@@ -69,3 +69,5 @@ DorkNet is featured in the [BlackArch Linux](https://blackarch.org) PenTesting D
 
 ### Known Issue
 By using Selenium and Geckodriver, DorkNet is effective at emulating a regular browser. In this manner the program is able to avoid captchas most of the time. However on limited occasions, Google throws one regardless. The same sometimes happens when manually searching for strings that look like a dork. Should you encounter one, you can just fill out the captcha in the Geckodriver and DorkNet will continue it's normal operation.
+
+Random update: 2729
